@@ -1,0 +1,20 @@
+{
+  "name": "@foziossy/learning-nodejs-for-tea",
+  "version": "1.0.0",
+  "description": "learning nodejs for tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foziossy/ossy-for-tea.git"
+  },
+  "author": "foziossy",
+  "dependencies": {"apala": "1.1.4"},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foziossy/ossy-for-tea/issues"
+  },
+  "homepage": "https://github.com/Foziossy/ossy-for-tea#readme"
+}
